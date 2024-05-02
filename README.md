@@ -6,4 +6,4 @@ project description
 
 ### license
 copyright & copy ; 2024 dep . All right reserved.<br>
-this project is liscens under dep 
+this project is license under [MIT](LICENCE.txt) license.
